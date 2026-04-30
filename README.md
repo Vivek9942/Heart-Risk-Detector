@@ -2,6 +2,10 @@
 
 An end-to-end machine learning project that predicts whether a person is at **high or low risk of heart disease** based on medical attributes.
 
+🚀 Live Demo
+
+🔗 Try the App: https://heart-risk-detector-8re6r3w4fwrutdxypzzwet.streamlit.app
+
 ## 📌 Project Overview
 
 Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely medical intervention.
